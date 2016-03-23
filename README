@@ -16,7 +16,10 @@ License
 =======
 
 All code in this repository is, to the fullest extent possible
-by law, released into the public domain.
+by law, released into the public domain. (NOTE: I do not claim
+copyright for any data or code taken from cryptopals.com. In
+particular, the data folder may contain encrypted forms of
+copyrighted material.)
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF

@@ -1,0 +1,13 @@
+The Matasano Crypto Challenge Solution
+======================================
+
+My personal solution for the Matasano Crypto challenger.
+
+http://cryptopals.com/
+
+Notes on Use
+============
+
+Requires
+ - Python 3
+ - pycrypto (install using pip)
